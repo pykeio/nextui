@@ -57,10 +57,10 @@ const badge = tv({
     },
     size: {
       sm: {
-        badge: "px-1 text-tiny",
+        badge: "px-1 text-tiny font-bold",
       },
       md: {
-        badge: "px-1 text-small",
+        badge: "px-1 text-tiny font-bold",
       },
       lg: {
         badge: "px-1 text-small",
